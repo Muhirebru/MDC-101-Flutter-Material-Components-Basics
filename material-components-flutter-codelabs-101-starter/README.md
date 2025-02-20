@@ -10,7 +10,7 @@ This project is a part of a series of codelabs demonstrating how to use Material
 
 -Utilizes Material Design components for a consistent and modern UI.
 
--Implements Material Flutter widgets to enhance usability and interactivit.
+-Implements Material Flutter widgets to enhance usability and interactivitity.
 
 
 ## Technologies Used
